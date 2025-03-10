@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">Hi, I'm Guilherme from Brazil.<br><br>- 🔭 Working as a front end developer for CI&T.<br>- 📚 Currently learning ways to improve my React skills.<br>- ⚡ In my free time I play games and create random fun projects.</p>
+<p align="left">Hi, I'm Guilherme from Brazil.<br>- 📚 Currently learning ways to improve my React skills.<br>- ⚡ In my free time I play games and create random fun projects.</p>
 
 ###
 
